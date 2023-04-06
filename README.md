@@ -1,4 +1,5 @@
 # douban-project
+这个项目是个人练习项目，主要是对《vue.js3应用开发与核心源码解析》的最后项目修改得到，主要是去改了bug(不用getCurrentInstance)和使用了Pinia代替了Vuex。这个项目去除了服务端渲染部分。
 
 This template should help get you started developing with Vue 3 in Vite.
 
